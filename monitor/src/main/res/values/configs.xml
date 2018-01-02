@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="monitor">true</bool>
+
+    <bool name="moni_fina">true</bool>
+    <bool name="moni_fina_dump">false</bool>
+    <integer name="moni_fina_freq">5000</integer>
+    <integer name="moni_fina_top">10</integer>
+    <integer name="moni_fina_thre">1000</integer>
+
+    <bool name="moni_mem">true</bool>
+    <bool name="moni_mem_dump">true</bool>
+    <integer name="moni_mem_freq">2000</integer>
+    <string name="moni_mem_file">/sdcard/</string>
+</resources>
